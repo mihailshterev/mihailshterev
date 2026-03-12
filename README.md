@@ -2,7 +2,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </p>
 <h1 align="center">Hi 👋, I'm Mihail!</h1>
-<h3 align="center">☄️ A passionate software engineer☄️</h3>
 
 # 🌌 About Me:
 I'm a software engineer that is constantly exploring the ever-evolving world of programming and software development. My journey through the fascinating realm of computer science has allowed me to experiment with a wide range of technologies, tackle diverse projects, and continuously expand my knowledge.
