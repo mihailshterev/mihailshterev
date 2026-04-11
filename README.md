@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mihail!</h1>
 A software engineer that is constantly exploring the ever-evolving world of programming and software development. My journey through the fascinating realm of computer science has allowed me to experiment with a wide range of technologies, tackle diverse projects, and continuously expand my knowledge.
+
 - 📧 You can contact me at mihail.shterev11@gmail.com 
 
 # 💻 Tech Stack:
